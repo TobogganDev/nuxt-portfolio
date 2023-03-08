@@ -1,8 +1,8 @@
 <template>
   <div>
-    <!-- <div class="img">
-      <img src="img/statue.png" alt="">
-    </div> -->
+    <div class="img">
+      <img src="../img/statue.png" alt="">
+    </div>
     <div class="top">
       <h2>Fullstack</h2>
     </div>
@@ -15,17 +15,17 @@
         <span>vue.js</span>
         <img src="../img/psy1.jpg" alt="">
         <span>symfony</span>
-        <img src="img/psy2.jpg" alt="">
+        <img src="../img/psy2.jpg" alt="">
       </div>
       <div class="row">
         <span>tailwindcss</span>
-        <img src="img/psy3.jpg" alt="">
+        <img src="../img/psy3.jpg" alt="">
         <span>Sass</span>
       </div>  
       <div class="row">
-        <img src="img/psy4.jpg" alt="">
+        <img src="../img/psy4.jpg" alt="">
         <span>figma</span>
-        <img src="img/psy5.jpg" alt="">
+        <img src="../img/psy5.jpg" alt="">
         <span>mysql</span>
       </div>
     </div>
