@@ -1,8 +1,8 @@
 <template>
   <div>
-    <div class="img">
+    <!-- <div class="img">
       <img src="../img/statue.png" alt="">
-    </div>
+    </div> -->
     <div class="top">
       <h2>Fullstack</h2>
     </div>
