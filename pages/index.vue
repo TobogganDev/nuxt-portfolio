@@ -13,7 +13,7 @@
     <div class="skills">
       <div class="row">
         <span>vue.js</span>
-        <img src="img/psy1.jpg" alt="">
+        <img src="../img/psy1.jpg" alt="">
         <span>symfony</span>
         <img src="img/psy2.jpg" alt="">
       </div>
