@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Bandeins Sans";
+  src: url("fonts/BandeinsSansVariableGX.ttf");
+}
+
+@font-face {
+  font-family: "Bandeins Strange";
+  src: url("fonts/BandeinsStrangeVariableGX.ttf");
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  cursor: crosshair;
+}
+
+body{
+  font-family: 'Bandeins Strange', sans-serif;
+  position: relative;
+  background-color: #181818;
+  font-size: 16px;
+}
+
+::-webkit-scrollbar {
+  width: 6px !important;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px !important;
+  background-color: #DAFFF4 !important;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+::selection{
+  background-color: #F0A04B;
+}
